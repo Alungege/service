@@ -50,4 +50,4 @@ jobs:
       uses: actions/upload-pages-artifact@v1
       with:
         # Upload entire repository
-        path: 'api/build/intermediates/java_doc_dir/release'
+        path: 'interface/build/intermediates/java_doc_dir/release'
